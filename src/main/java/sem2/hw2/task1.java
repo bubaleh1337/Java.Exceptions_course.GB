@@ -23,7 +23,6 @@ public class task1 {
             System.out.println("Число не дробное.\n");
             GetNum();
         }
-
     }
 
 }
